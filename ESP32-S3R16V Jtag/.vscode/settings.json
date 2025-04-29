@@ -5,5 +5,9 @@
     "idf.openOcdConfigs": [
         "board/esp32s3-builtin.cfg"
     ],
-    "idf.toolsPathWin": "C:\\Users\\iskublics\\.espressif"
+    "idf.toolsPathWin": "C:\\Users\\iskublics\\.espressif",
+    "files.associations": {
+        "esp_log.h": "c",
+        "esp_check.h": "c"
+    }
 }
