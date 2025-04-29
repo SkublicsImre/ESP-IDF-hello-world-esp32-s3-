@@ -1,0 +1,43 @@
+info: INFO: Symbol ENV_MAX_LEDS defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:349
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:354
+info: INFO: Symbol ENV_GPIO_RANGE_MIN defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:926
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:961
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1066
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1032
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:979
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:943
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1049
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:997
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1015
+info: INFO: Symbol ENV_GPIO_RANGE_MAX defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1036
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:947
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1070
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1001
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1053
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:983
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:930
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1019
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:965
+info: INFO: Symbol ENV_GPIO_IN_RANGE_MAX defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1057
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1040
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:952
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1074
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1006
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:934
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:988
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1023
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:970
+info: INFO: Symbol ENV_GPIO_OUT_RANGE_MAX defined in multiple locations (see below). Please check if this is a correct behavior or a random name match:
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1010
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:974
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:938
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:992
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1027
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1044
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1078
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:956
+    C:\Users\iskublics\VsC_projects\Enbedded\ESP32-S3R16V Jtag\managed_components\espressif__esp_bsp_generic\Kconfig:1061
