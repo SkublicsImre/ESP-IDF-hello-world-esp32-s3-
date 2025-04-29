@@ -1,1 +1,1 @@
-# ESP-IDF-hello-world-esp32-s3-
+# ESP-IDF-direct-USB-esp32-s3-
